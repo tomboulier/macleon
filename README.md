@@ -1,6 +1,8 @@
 # MacLeon
 
-![MacLeon logo](macleon_logoe.png)
+<div align="center">
+<img src="macleon_logo.png" width="500">
+</div>
 
 ## Overview
 
